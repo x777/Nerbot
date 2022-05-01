@@ -1,7 +1,7 @@
 # Nerbot NFT marketplace
 The Nerbot is a telegram NFT marketplace bot for the Nervos Network blockchain $CKB
 
-![Logo](https://pbs.twimg.com/profile_images/1430530940128878597/pEcBBfbY_400x400.jpg)
+![Logo](https://camo.githubusercontent.com/9519de62a7a40a02821b81102bd802682c0e7bc5e1b7f35810f2624e1bcf5dbb/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313433303533303934303132383837383539372f70456342426662595f343030783430302e6a7067)
 
 ## Links:
 Live version - https://t.me/CkbNftBot
