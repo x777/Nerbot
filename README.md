@@ -1,3 +1,4 @@
+# PROJECT IS CLOSED
 # Nerbot NFT marketplace
 The Nerbot is a telegram NFT marketplace bot for the Nervos Network blockchain $CKB
 
